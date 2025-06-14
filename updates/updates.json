@@ -1,0 +1,18 @@
+{
+    "addons": {
+        "{9ff12cf6-e2d3-42f8-9f25-16e8a2ac1762}": {
+            "updates": [
+                {
+                    "version": "1.1",
+                    "update_link": "https://github.com/franktankbank/tab-extract/releases/download/v1.1/tab-extract-1.1.xpi",
+                    "update_hash": "sha256:41fa39c073d7c70602881ba90ca03306cb4a35dd1e27595a1cc50dcaddf9c300"
+                },
+                {
+                    "version": "1.2",
+                    "update_link": "https://github.com/franktankbank/tab-extract/releases/download/v1.2/tab-extract-1.2.xpi",
+                    "update_hash": "sha256:f030ab004fdf4af779a290a6d2fc25fe30eeaf07279ee35e672d6625119b6fe2"
+                }
+            ]
+        }
+    }
+}
